@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.2c1b1cf2.css",
-    "main.js": "/react-gh-pages/static/js/main.14d4817c.js",
-    "static/js/787.59505c57.chunk.js": "/react-gh-pages/static/js/787.59505c57.chunk.js",
-    "static/media/SunnySolar.jpg": "/react-gh-pages/static/media/SunnySolar.917c0eaf57792a3154eb.jpg",
-    "static/media/wind.jpg": "/react-gh-pages/static/media/wind.37dc90db4776de5b1a59.jpg",
-    "static/media/modernhouse.jpg": "/react-gh-pages/static/media/modernhouse.361fd137b80c2f03d028.jpg",
-    "static/media/kid.jpg": "/react-gh-pages/static/media/kid.da7c93b35687e1710db6.jpg",
-    "static/media/solarfield.jpg": "/react-gh-pages/static/media/solarfield.9c9572fdca88beaa5e96.jpg",
-    "static/media/Desktop-ModelX.jpeg": "/react-gh-pages/static/media/Desktop-ModelX.834173034c452839cba0.jpeg",
-    "static/media/Desktop-ModelS.jpeg": "/react-gh-pages/static/media/Desktop-ModelS.e3d22a07aa3fe0fa6e75.jpeg",
-    "static/media/Desktop-ModelY.jpeg": "/react-gh-pages/static/media/Desktop-ModelY.30acb76aab6f760a753a.jpeg",
-    "static/media/Desktop-Model3.jpeg": "/react-gh-pages/static/media/Desktop-Model3.30651f796c26e128fa1b.jpeg",
-    "static/media/farm.jpg": "/react-gh-pages/static/media/farm.9f623a4b5149cdd82973.jpg",
-    "static/media/Montserrat-SemiBold.ttf": "/react-gh-pages/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
-    "static/media/Express.png": "/react-gh-pages/static/media/Express.5bc7296d2d904f275781.png",
-    "static/media/result.png": "/react-gh-pages/static/media/result.6ad3b82830f7298b2e3b.png",
-    "static/media/result2.png": "/react-gh-pages/static/media/result2.6c506a003bc6112522fc.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.2c1b1cf2.css.map": "/react-gh-pages/static/css/main.2c1b1cf2.css.map",
-    "main.14d4817c.js.map": "/react-gh-pages/static/js/main.14d4817c.js.map",
-    "787.59505c57.chunk.js.map": "/react-gh-pages/static/js/787.59505c57.chunk.js.map"
+    "main.css": "/MyWebsite/static/css/main.fe464ae5.css",
+    "main.js": "/MyWebsite/static/js/main.98bf49d3.js",
+    "static/js/787.59505c57.chunk.js": "/MyWebsite/static/js/787.59505c57.chunk.js",
+    "static/media/SunnySolar.jpg": "/MyWebsite/static/media/SunnySolar.917c0eaf57792a3154eb.jpg",
+    "static/media/wind.jpg": "/MyWebsite/static/media/wind.37dc90db4776de5b1a59.jpg",
+    "static/media/modernhouse.jpg": "/MyWebsite/static/media/modernhouse.361fd137b80c2f03d028.jpg",
+    "static/media/kid.jpg": "/MyWebsite/static/media/kid.da7c93b35687e1710db6.jpg",
+    "static/media/solarfield.jpg": "/MyWebsite/static/media/solarfield.9c9572fdca88beaa5e96.jpg",
+    "static/media/Desktop-ModelX.jpeg": "/MyWebsite/static/media/Desktop-ModelX.834173034c452839cba0.jpeg",
+    "static/media/Desktop-ModelS.jpeg": "/MyWebsite/static/media/Desktop-ModelS.e3d22a07aa3fe0fa6e75.jpeg",
+    "static/media/Desktop-ModelY.jpeg": "/MyWebsite/static/media/Desktop-ModelY.30acb76aab6f760a753a.jpeg",
+    "static/media/Desktop-Model3.jpeg": "/MyWebsite/static/media/Desktop-Model3.30651f796c26e128fa1b.jpeg",
+    "static/media/farm.jpg": "/MyWebsite/static/media/farm.9f623a4b5149cdd82973.jpg",
+    "static/media/Montserrat-SemiBold.ttf": "/MyWebsite/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Express.png": "/MyWebsite/static/media/Express.5bc7296d2d904f275781.png",
+    "static/media/result.png": "/MyWebsite/static/media/result.6ad3b82830f7298b2e3b.png",
+    "static/media/result2.png": "/MyWebsite/static/media/result2.6c506a003bc6112522fc.png",
+    "index.html": "/MyWebsite/index.html",
+    "main.fe464ae5.css.map": "/MyWebsite/static/css/main.fe464ae5.css.map",
+    "main.98bf49d3.js.map": "/MyWebsite/static/js/main.98bf49d3.js.map",
+    "787.59505c57.chunk.js.map": "/MyWebsite/static/js/787.59505c57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c1b1cf2.css",
-    "static/js/main.14d4817c.js"
+    "static/css/main.fe464ae5.css",
+    "static/js/main.98bf49d3.js"
   ]
 }
