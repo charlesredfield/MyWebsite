@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2f0acccc.css",
-    "main.js": "/static/js/main.bac06d23.js",
+    "main.js": "/static/js/main.c8258565.js",
     "static/js/787.59505c57.chunk.js": "/static/js/787.59505c57.chunk.js",
     "static/media/SunnySolar.jpg": "/static/media/SunnySolar.917c0eaf57792a3154eb.jpg",
     "static/media/wind.jpg": "/static/media/wind.37dc90db4776de5b1a59.jpg",
@@ -19,11 +19,11 @@
     "static/media/result2.png": "/static/media/result2.6c506a003bc6112522fc.png",
     "index.html": "/index.html",
     "main.2f0acccc.css.map": "/static/css/main.2f0acccc.css.map",
-    "main.bac06d23.js.map": "/static/js/main.bac06d23.js.map",
+    "main.c8258565.js.map": "/static/js/main.c8258565.js.map",
     "787.59505c57.chunk.js.map": "/static/js/787.59505c57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f0acccc.css",
-    "static/js/main.bac06d23.js"
+    "static/js/main.c8258565.js"
   ]
 }
