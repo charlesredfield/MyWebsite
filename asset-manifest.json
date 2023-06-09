@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.429c3919.css",
-    "main.js": "/static/js/main.2d4d366e.js",
-    "static/js/787.59505c57.chunk.js": "/static/js/787.59505c57.chunk.js",
-    "static/media/SunnySolar.jpg": "/static/media/SunnySolar.917c0eaf57792a3154eb.jpg",
-    "static/media/wind.jpg": "/static/media/wind.37dc90db4776de5b1a59.jpg",
-    "static/media/modernhouse.jpg": "/static/media/modernhouse.361fd137b80c2f03d028.jpg",
-    "static/media/kid.jpg": "/static/media/kid.da7c93b35687e1710db6.jpg",
-    "static/media/solarfield.jpg": "/static/media/solarfield.9c9572fdca88beaa5e96.jpg",
-    "static/media/Desktop-ModelX.jpeg": "/static/media/Desktop-ModelX.834173034c452839cba0.jpeg",
-    "static/media/Desktop-ModelS.jpeg": "/static/media/Desktop-ModelS.e3d22a07aa3fe0fa6e75.jpeg",
-    "static/media/Desktop-ModelY.jpeg": "/static/media/Desktop-ModelY.30acb76aab6f760a753a.jpeg",
-    "static/media/Desktop-Model3.jpeg": "/static/media/Desktop-Model3.30651f796c26e128fa1b.jpeg",
-    "static/media/farm.jpg": "/static/media/farm.9f623a4b5149cdd82973.jpg",
-    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
-    "static/media/Express.png": "/static/media/Express.5bc7296d2d904f275781.png",
-    "static/media/result.png": "/static/media/result.6ad3b82830f7298b2e3b.png",
-    "static/media/result2.png": "/static/media/result2.6c506a003bc6112522fc.png",
-    "index.html": "/index.html",
-    "main.429c3919.css.map": "/static/css/main.429c3919.css.map",
-    "main.2d4d366e.js.map": "/static/js/main.2d4d366e.js.map",
-    "787.59505c57.chunk.js.map": "/static/js/787.59505c57.chunk.js.map"
+    "main.css": "/static/js/App.js/static/css/main.8aeefc54.css",
+    "main.js": "/static/js/App.js/static/js/main.f0106a7c.js",
+    "static/js/787.59505c57.chunk.js": "/static/js/App.js/static/js/787.59505c57.chunk.js",
+    "static/media/SunnySolar.jpg": "/static/js/App.js/static/media/SunnySolar.917c0eaf57792a3154eb.jpg",
+    "static/media/wind.jpg": "/static/js/App.js/static/media/wind.37dc90db4776de5b1a59.jpg",
+    "static/media/modernhouse.jpg": "/static/js/App.js/static/media/modernhouse.361fd137b80c2f03d028.jpg",
+    "static/media/kid.jpg": "/static/js/App.js/static/media/kid.da7c93b35687e1710db6.jpg",
+    "static/media/solarfield.jpg": "/static/js/App.js/static/media/solarfield.9c9572fdca88beaa5e96.jpg",
+    "static/media/Desktop-ModelX.jpeg": "/static/js/App.js/static/media/Desktop-ModelX.834173034c452839cba0.jpeg",
+    "static/media/Desktop-ModelS.jpeg": "/static/js/App.js/static/media/Desktop-ModelS.e3d22a07aa3fe0fa6e75.jpeg",
+    "static/media/Desktop-ModelY.jpeg": "/static/js/App.js/static/media/Desktop-ModelY.30acb76aab6f760a753a.jpeg",
+    "static/media/Desktop-Model3.jpeg": "/static/js/App.js/static/media/Desktop-Model3.30651f796c26e128fa1b.jpeg",
+    "static/media/farm.jpg": "/static/js/App.js/static/media/farm.9f623a4b5149cdd82973.jpg",
+    "static/media/Montserrat-SemiBold.ttf": "/static/js/App.js/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Express.png": "/static/js/App.js/static/media/Express.5bc7296d2d904f275781.png",
+    "static/media/result.png": "/static/js/App.js/static/media/result.6ad3b82830f7298b2e3b.png",
+    "static/media/result2.png": "/static/js/App.js/static/media/result2.6c506a003bc6112522fc.png",
+    "index.html": "/static/js/App.js/index.html",
+    "main.8aeefc54.css.map": "/static/js/App.js/static/css/main.8aeefc54.css.map",
+    "main.f0106a7c.js.map": "/static/js/App.js/static/js/main.f0106a7c.js.map",
+    "787.59505c57.chunk.js.map": "/static/js/App.js/static/js/787.59505c57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.429c3919.css",
-    "static/js/main.2d4d366e.js"
+    "static/css/main.8aeefc54.css",
+    "static/js/main.f0106a7c.js"
   ]
 }
