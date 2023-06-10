@@ -1,0 +1,39 @@
+.button{
+    background-color: rgba(0, 147, 189, 0.8);
+    height: 40px;
+    width: 256px;
+    margin: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 75%;
+    transition: background-color 250ms ease-in-out;
+    border: 1px solid rgba(0, 147, 189, 1);
+
+    
+}
+.button:hover {
+    background-color: rgba(0, 147, 189, 1);
+
+}
+.button>a{
+    text-decoration: none;
+    color: rgb(0, 0, 2);
+    font-size: 15px;
+    text-align: center;
+}
+
+.button_white{
+    background-color: rgba(0, 0, 2,0.8);
+    transition: background-color 250ms ease-in-out;
+    border: 1px solid  rgba(0, 0, 2,1);
+
+}
+.button_white:hover{
+    background-color: rgba(0, 0, 2,1);
+}
+
+.button_white>a{
+    color: white;
+}
